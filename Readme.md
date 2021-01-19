@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Эдгар Вяземский](https://up.htmlacademy.ru/htmlcss/30/user/1669879).
-* Наставник: [Геннадий Максимов](https://up.htmlacademy.ru/htmlcss/30/user/497967).
+* Наставник: [Геннадий Максимов](https://https://htmlacademy.ru/profile/gennadiy).
 
 ---
 
